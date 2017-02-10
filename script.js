@@ -1,10 +1,10 @@
-/* //STEP 1
+//STEP 1
 var someMonth;
 function theMonth;
 const currentMonth;
 var summerMonth;
 function myLibraryAFunction;
-*/
+
 
 /* //STEP 2
 //numeric literal expression
@@ -156,6 +156,7 @@ var widget = new Object();
 window.console.log(widget instanceof Object);
 */
 
-//STEP 25
+/*//STEP 25
 var widget = new Object();
 window.console.log(widget instanceof String);
+*/
